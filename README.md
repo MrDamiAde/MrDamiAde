@@ -14,5 +14,5 @@ IT Enthusiast
 - Microsoft Azure Fundamentals 
 - Udemy Introduction to Cyber Security 
 
-<h2>🏅 Blog</h2>
+<h2>📝 Blog</h2>
   - [Demistifying Cybersecurity]([https://github.com/joshmadakor1/Algorithms-Practice](https://medium.com/@damiadebayo98))
