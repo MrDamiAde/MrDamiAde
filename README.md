@@ -3,7 +3,7 @@
 IT Enthusiast
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory Home Lab(AlgoExpert)</b>
+- <b>Active Directory Home Lab([AlgoExpert](https://github.com/MrDamiAde/ActiveDirectoryLab/tree/main)
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
