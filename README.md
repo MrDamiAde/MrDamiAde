@@ -7,7 +7,7 @@ IT Enthusiast
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>🏅 Certifications/Courses</h2>
+<h2>📃 Certifications/Courses</h2>
 
 - Google Cyber Security Certificate
 - TryHackMe Windows Active Directory
