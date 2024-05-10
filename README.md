@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dami! 
   
-Aspiring IT Enthusiast
+IT Enthusiast
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab(AlgoExpert)</b>
