@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Dami! 
+  
+Aspiring IT Enthusiast
+<h2>👨‍💻 IT Projects:</h2>
 
-<!--
-**MrDamiAde/MrDamiAde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Active Directory Home Lab(AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🏅 Certifications/Courses</h2>
+
+- Google Cyber Security Certificate
+- TryHackMe Windows Active Directory
+- Microsoft Azure Fundamentals 
+- Udemy Introduction to Cyber Security 
+
+<h2>🏅 Blog</h2>
+  - [Demistifying Cybersecurity]([https://github.com/joshmadakor1/Algorithms-Practice](https://medium.com/@damiadebayo98))
