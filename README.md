@@ -9,7 +9,7 @@ I decided to leave behind five years of property experience to pursue my curiosi
 
 ## Objective
 
-My journey in the Just IT, IT Technician bootcamp has sparked a passion for troubleshooting and cloud networking. I am now eager to transition into the field as a First Line Support Engineer, where I can apply my skills and continue to grow in IT support
+My journey in the Just IT, IT Technician, bootcamp has sparked a passion for troubleshooting and cloud networking. I am now eager to transition into the field as a First Line Support Engineer, where I can apply my skills and continue to grow in IT support
 
 ## Skills
 
