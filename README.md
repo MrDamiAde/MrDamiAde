@@ -5,23 +5,21 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I decided to leave behind five years of property experience to pursue my curiosity for technology, combining it with my passion for solving complex problems.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the Just IT, IT Technician bootcamp has sparked a passion for troubleshooting and cloud networking. I am now eager to transition into the field as a First Line Support Engineer, where I can apply my skills and continue to grow in IT support
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory User Management         | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
+| Entra ID Bulk Users Creation  (Azure AD) | <a href="https://github.com/MrDamiAde/Entra-ID">Entra ID Lab</a>|
+| Powershell Scripting and Automation for efficiency        | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
