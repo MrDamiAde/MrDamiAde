@@ -5,7 +5,7 @@
 
 
 
-I decided to leave behind five years of property experience to pursue my curiosity for technology, combining it with my passion for solving complex problems.
+I decided to leave behind five years of property experience to pursue my curiosity for technology, combining it with my passion for solving complex problems and helping others.
 
 ## Objective
 
