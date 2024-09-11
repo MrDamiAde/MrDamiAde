@@ -9,7 +9,7 @@ I decided to leave behind five years of property experience to pursue my curiosi
 
 ## Objective
 
-My journey in learning IT has sparked a passion for troubleshooting and cloud networking. I recently completed a 3-month IT Technician Skills Bootcamp with <a href="https://www.justit.co.uk/candidates/training-programmes/it-technician-skills-bootcamps/">Just IT</a>
+My journey in learning IT has sparked a passion for troubleshooting and cloud networking. I recently completed a 12-week IT Technician Skills Bootcamp with <a href="https://www.justit.co.uk/candidates/training-programmes/it-technician-skills-bootcamps/">Just IT</a>
  and am currently pursuing my CompTIA A+ certification. I am now eager to transition into the field as a First Line Support Engineer, where I can apply my skills and continue to grow in IT support.
 
 ## Skills
