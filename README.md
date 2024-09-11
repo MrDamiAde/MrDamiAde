@@ -63,7 +63,7 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 ## Achievements & Certifications
 
 - Level 3 IT Technician Bootcamp
-- CompTIA A+ (Expected September 2024)
+- CompTIA A+ (Expected November 2024)
 
 
 ## Projects
