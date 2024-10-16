@@ -40,28 +40,26 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 <a href="https://learn.microsoft.com/en-us/azure/active-directory/"><img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/en-us/mem/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 
-### Device Management & Support
-<a href="https://www.microsoft.com/en-us/microsoft-365/endpoint-manager"><img src="https://img.shields.io/badge/Microsoft_Endpoint_Manager-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="https://mpssoftware.com/"><img src="https://img.shields.io/badge/MPS_Software-0078D4?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.papercut.com/"><img src="https://img.shields.io/badge/Papercut-008C46?style=for-the-badge&logoColor=white" /></a>
-<a href="https://lenovovantage.microsoft.com/"><img src="https://img.shields.io/badge/Go_Vantage-FF0000?style=for-the-badge&logo=Lenovo&logoColor=white" /></a>
-
 ### Development & Operations
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/endpoint-manager"><img src="https://img.shields.io/badge/Microsoft_Endpoint_Manager-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
+<a href="https://powerautomate.microsoft.com/"><img src="https://img.shields.io/badge/Power_Automate-0366D6?style=for-the-badge&logo=power-automate&logoColor=white" /></a>
 
 ### Collaboration & Productivity
-<a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-1D75C2?style=for-the-badge&logo=miro&logoColor=white" /></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /></a>
 <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 <a href="https://www.microsoft.com/microsoft-forms"><img src="https://img.shields.io/badge/Microsoft_Forms-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://www.box.com/en-gb/home?url_redirect=www.google.com%2F"><img src="https://img.shields.io/badge/Box-00C4CC?style=for-the-badge&logo=box&logoColor=white" /></a>
 
-### Virtualization & Remote Tools
+### Virtualization & Print Management
 <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
-<a href="https://www.teamviewer.com/en/"><img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white" /></a>
+<a href="https://www.papercut.com/"><img src="https://img.shields.io/badge/PaperCut-00CC00?style=for-the-badge&logo=papercut&logoColor=white" /></a>
+<a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-0D2DFF?style=for-the-badge&logo=teamviewer&logoColor=white" /></a>
 
 
 
