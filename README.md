@@ -5,7 +5,7 @@
 
 
 
-I'm an IT Technician who left behind five years of property experience to pursue my curiosity for technology, combining it with my passion for solving complex problems and helping others.
+I'm an IT Technician with a passion for solving complex problems and helping others.
 
 ## Objective
 
