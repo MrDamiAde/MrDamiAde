@@ -56,10 +56,11 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 <a href="https://www.microsoft.com/microsoft-forms"><img src="https://img.shields.io/badge/Microsoft_Forms-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
 <a href="https://www.box.com/en-gb/home?url_redirect=www.google.com%2F"><img src="https://img.shields.io/badge/Box-00C4CC?style=for-the-badge&logo=box&logoColor=white" /></a>
 
-### Virtualization & Print Management
+### Virtualization, Remote Management & Print Management
 <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
 <a href="https://www.papercut.com/"><img src="https://img.shields.io/badge/PaperCut-00CC00?style=for-the-badge&logo=papercut&logoColor=white" /></a>
 <a href="https://www.teamviewer.com/"><img src="https://img.shields.io/badge/TeamViewer-0D2DFF?style=for-the-badge&logo=teamviewer&logoColor=white" /></a>
+<a href="https://www.datto.com/"><img src="https://img.shields.io/badge/Datto_RMM-0000CC?style=for-the-badge&logo=datto&logoColor=white" /></a>
 
 
 
@@ -68,7 +69,7 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 ## Achievements & Certifications
 
 - Level 3 IT Technician Bootcamp
-- CompTIA A+: core 1 passed, core 2 expected Nov 2024
+- CompTIA A+: core 1 passed, core 2 expected Dec 2024
 
 
 ## Projects
