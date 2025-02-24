@@ -9,8 +9,8 @@ I'm an IT Technician with a passion for solving complex problems and helping oth
 
 ## Objective
 
-My journey in learning IT has sparked a passion for troubleshooting and cloud networking. I recently completed a 12-week IT Technician Skills Bootcamp with <a href="https://www.justit.co.uk/candidates/training-programmes/it-technician-skills-bootcamps/">Just IT</a>
- and am currently pursuing my CompTIA A+ certification. I am eager to learn more, apply my skills and continue to grow in the world of IT.
+My journey in learning IT has sparked a passion for troubleshooting and cloud networking. I completed a 12-week IT Technician Skills Bootcamp with <a href="https://www.justit.co.uk/candidates/training-programmes/it-technician-skills-bootcamps/">Just IT</a>
+ and am eager to learn more, apply my skills and continue to grow in the world of IT.
 
 ## Skills
 
@@ -69,7 +69,7 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 ## Achievements & Certifications
 
 - Level 3 IT Technician Bootcamp
-- CompTIA A+: core 1 passed, core 2 expected Dec 2024
+- CompTIA A+
 
 
 ## Projects
