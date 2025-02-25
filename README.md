@@ -81,11 +81,9 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 
 ## Achievements & Certifications
 
-- Level 3 IT Technician Bootcamp
+- AWS Practitioner ( expected April 2025 )
 - CompTIA A+
+  
 
 
-## Projects
-- Active Directory
-- Entra ID
-- Ticketing System
+
