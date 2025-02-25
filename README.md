@@ -17,6 +17,7 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Docker                                        | [Reverse Proxy Project](#)       
 | Active Directory User Management         | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
 | Entra ID Bulk Users Creation  (Azure AD) | <a href="https://github.com/MrDamiAde/Entra-ID">Entra ID Lab</a>|
 | Powershell Scripting and Automation for Active Directory     | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
@@ -24,6 +25,15 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 
 
 ## Tools
+
+### Cloud Computing
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+
+### Containerization & Virtualization
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
 
 ### Operating Systems
 <a href="https://www.microsoft.com/windows/windows-10"><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
