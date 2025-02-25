@@ -39,6 +39,9 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 <a href="https://www.microsoft.com/windows/windows-10"><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
+
 
 ### Security & Networking
 <a href="https://www.microsoft.com/en-us/windows/comprehensive-security"><img src="https://img.shields.io/badge/Microsoft_Windows_Defender-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></a>
