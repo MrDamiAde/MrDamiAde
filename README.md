@@ -17,7 +17,7 @@ My journey in learning IT has sparked a passion for troubleshooting and cloud ne
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Docker                                        | [Reverse Proxy Project](#)       
+| Docker Containers                             | [NGINX Docker Project](https://github.com/MrDamiAde/NGINX-docker-official-image)       
 | Active Directory User Management         | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
 | Entra ID Bulk Users Creation  (Azure AD) | <a href="https://github.com/MrDamiAde/Entra-ID">Entra ID Lab</a>|
 | Powershell Scripting and Automation for Active Directory     | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
