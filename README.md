@@ -3,25 +3,18 @@
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
-
-I'm an IT Technician with a passion for solving complex problems and helping others.
-
 ## Objective
 
-My journey in learning IT has sparked a passion for troubleshooting and cloud networking. I completed a 12-week IT Technician Skills Bootcamp with <a href="https://www.justit.co.uk/candidates/training-programmes/it-technician-skills-bootcamps/">Just IT</a>
- and am eager to learn more, apply my skills and continue to grow in the world of IT.
+I am an IT Technician passionate about cloud computing, DevOps, and automation. My goal is to design scalable, efficient solutions by leveraging containerisation, infrastructure as code, and cloud technologies. I am continuously learning and building hands-on projects to deepen my expertise.
 
 ## Skills
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Docker Containers                             | [NGINX Docker Project](https://github.com/MrDamiAde/NGINX-docker-official-image)       
-| Active Directory User Management         | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
-| Entra ID Bulk Users Creation  (Azure AD) | <a href="https://github.com/MrDamiAde/Entra-ID">Entra ID Lab</a>|
-| Powershell Scripting and Automation for Active Directory     | <a href="https://github.com/MrDamiAde/Active-Directory-">Active Directory Lab</a>|
-| Sharepoint Ticketing System    | <a href="https://github.com/MrDamiAde/Creating-A-Ticketing-System">Ticketing System</a>|
+| AWS S3, Static Website Hosting, Cloud Deployment | [AWS Static Web Project](https://github.com/MrDamiAde/aws-static-web-project) |
+| Docker, Containerisation, Microservices       | [Docker Node App](https://github.com/MrDamiAde/docker-node-app) |
+| Nginx Reverse Proxy, Load Balancing, Web Server Configuration | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example) |
 
 
 ## Tools
