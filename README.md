@@ -35,7 +35,6 @@ I am an IT Technician passionate about cloud computing, DevOps, and automation. 
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
 
-
 ### Security & Networking
 <a href="https://www.microsoft.com/en-us/windows/comprehensive-security"><img src="https://img.shields.io/badge/Microsoft_Windows_Defender-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></a>
 <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
@@ -53,6 +52,13 @@ I am an IT Technician passionate about cloud computing, DevOps, and automation. 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" /></a>
 <a href="https://powerautomate.microsoft.com/"><img src="https://img.shields.io/badge/Power_Automate-0366D6?style=for-the-badge&logo=power-automate&logoColor=white" /></a>
+
+### Web Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://www.git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /></a>
 
 ### Collaboration & Productivity
 <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-1D75C2?style=for-the-badge&logo=miro&logoColor=white" /></a>
