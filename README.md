@@ -5,7 +5,7 @@
 
 ## Objective
 
-I am an IT Technician passionate about cloud computing, DevOps, and automation. My goal is to design scalable, efficient solutions by leveraging containerisation, infrastructure as code, and cloud technologies. I am continuously learning and building hands-on projects to deepen my expertise.
+I am a CompTIA-certified IT Technician passionate about cloud computing, DevOps, and automation. My goal is to design scalable, efficient solutions by leveraging containerisation, infrastructure as code, and cloud technologies. I am continuously learning and building hands-on projects to deepen my expertise.
 
 ## Skills
 
