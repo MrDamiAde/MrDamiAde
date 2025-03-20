@@ -80,8 +80,8 @@ I am a CompTIA-certified IT Technician passionate about cloud computing, DevOps,
 
 ## Achievements & Certifications
 
-- AWS Practitioner ( expected April 2025 )
-- CompTIA A+
+- AWS Practitioner (expected April 2025)
+- CompTIA A+ (Dec 2024)
   
 
 
