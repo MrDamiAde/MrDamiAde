@@ -5,7 +5,7 @@
 
 ## Objective
 
-I am a CompTIA-certified IT Technician passionate about cloud computing, DevOps, and automation. My goal is to design scalable, efficient solutions by leveraging containerisation, infrastructure as code, and cloud technologies. I am continuously learning and building hands-on projects to deepen my expertise.
+AWS Certified Cloud Practitioner and IT Technician passionate about cloud computing, DevOps, and automation. I'm excited about designing scalable, efficient solutions using containerisation, infrastructure as code, and cloud technologies. I'm continuously learning and building hands-on projects to deepen my expertise.
 
 ## Skills
 
@@ -80,7 +80,7 @@ I am a CompTIA-certified IT Technician passionate about cloud computing, DevOps,
 
 ## Achievements & Certifications
 
-- AWS Practitioner (expected April 2025)
+- AWS Cloud Practitioner (Mar 2025)
 - CompTIA A+ (Dec 2024)
   
 
