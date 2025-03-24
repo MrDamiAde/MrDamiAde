@@ -5,7 +5,7 @@
 
 ## Objective
 
-AWS Certified Cloud Practitioner and IT Technician passionate about cloud computing, DevOps, and automation. I'm excited about designing scalable, efficient solutions using containerisation, infrastructure as code, and cloud technologies. I'm continuously learning and building hands-on projects to deepen my expertise.
+AWS Certified Cloud Practitioner and IT Technician passionate about cloud computing, DevOps, and automation. I enjoy designing scalable, efficient solutions using containerisation, infrastructure as code, and cloud technologies. I'm continuously learning and building hands-on projects to deepen my expertise.
 
 ## Skills
 
