@@ -12,9 +12,10 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AWS S3, Static Website Hosting, Cloud Deployment | [AWS Static Web Project](https://github.com/MrDamiAde/aws-static-web-project) |
-| Docker, Containerisation, Microservices       | [Docker Node App](https://github.com/MrDamiAde/docker-node-app) |
-| Nginx Reverse Proxy, Load Balancing, Web Server Configuration | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example) |
+| **AWS Elastic Beanstalk, Docker, Flask Deployment** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
+| **AWS S3, Static Website Hosting, Cloud Deployment** | [AWS Static Web Project](https://github.com/MrDamiAde/aws-static-web-project) |
+| **Docker, Containerisation, Microservices**       | [Docker Node App](https://github.com/MrDamiAde/docker-node-app) |
+| **Nginx Reverse Proxy, Load Balancing, Web Server Configuration** | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example) |
 
 
 ## Tools
