@@ -30,6 +30,15 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
 <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+<a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://aws.amazon.com/ecr/"><img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+
+### CI/CD & DevOps
+<a href="https://aws.amazon.com/codepipeline/"><img src="https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://aws.amazon.com/codebuild/"><img src="https://img.shields.io/badge/AWS_CodeBuild-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://aws.amazon.com/codedeploy/"><img src="https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
 
 ### Operating Systems
 <a href="https://www.microsoft.com/windows/windows-10"><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
@@ -83,6 +92,7 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 ## Achievements & Certifications
 
+- AWS Certified Solutions Architect - Associate (expected May 2025)
 - AWS Cloud Practitioner (Mar 2025)
 - CompTIA A+ (Dec 2024)
   
