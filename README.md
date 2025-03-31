@@ -11,8 +11,8 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| **CI/CD, AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, GitHub Integration, CloudShell** | [CI/CD Pipeline Deployment with AWS Elastic Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-Deployment-with-AWS-Elastic-Beanstalk) |
-| **AWS S3, CloudFront, CloudWatch, Certificate Manager, Static Web Hosting** | [S3 Smart Web Deployment](https://github.com/MrDamiAde/s3-smart-web-deployment) |
+| **CI/CD, AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, GitHub Integration, CloudShell** | [CI/CD Pipeline Deployment with AWS Elastic Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-Deployment-with-AWS-Elastic-Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-AWS-Codepipeline-Beanstalk)) |
+| **AWS S3, CloudFront, CloudWatch, Certificate Manager, Static Web Hosting** | [S3 Smart Web Deployment](https://github.com/MrDamiAde/s3-smart-web-deployment](https://github.com/MrDamiAde/AWS-Static-Web-Hosting-S3-CloudFront-CloudWatch-Configuration)) |
 | **AWS Elastic Beanstalk, Docker, Flask Deployment, Auto Scaling, Load Balancing** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
 | **Docker, Containerisation, Microservices**       | [Docker Node App](https://github.com/MrDamiAde/docker-node-app) |
 | **Nginx Reverse Proxy, Load Balancing, Web Server Configuration** | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example) |
