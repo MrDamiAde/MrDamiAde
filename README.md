@@ -1,5 +1,5 @@
 # Hello, I'm Dami
-<a href="https://www.linkedin.com/in/dami-a-388b01103/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@damiadebayo98">
+<a href="https://www.linkedin.com/in/oluwadamilare-a-388b01103/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@damiadebayo98">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
