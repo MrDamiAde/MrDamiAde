@@ -93,7 +93,7 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 ## Achievements & Certifications
 
-- AWS Certified Solutions Architect - Associate (expected May 2025)
+- AWS Certified Solutions Architect - Associate (expected Jun 2025)
 - AWS Cloud Practitioner (Mar 2025)
 - CompTIA A+ (Dec 2024)
   
