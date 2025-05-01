@@ -9,13 +9,15 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                                                 | Associated Project                                                                                          |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Docker, Flask, PostgreSQL, Bootstrap, Docker Compose, 3-Tier App Design** | [Marvel Rivals Stats App](https://github.com/MrDamiAde/marvel-rivals-stats)                                 |
+| **Docker, Nginx, Reverse Proxy, Multi-container Networking**          | [Reverse Proxy with Multiple Flask Apps](https://github.com/MrDamiAde/reverse-proxy-projects)              |
 | **CI/CD, AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, GitHub Integration, CloudShell** | [CI/CD Pipeline Deployment with AWS Elastic Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-AWS-Codepipeline-Beanstalk) |
 | **AWS S3, CloudFront, CloudWatch, Certificate Manager, Static Web Hosting** | [S3 Smart Web Deployment](https://github.com/MrDamiAde/AWS-Static-Web-Hosting-S3-CloudFront-CloudWatch-Configuration) |
 | **AWS Elastic Beanstalk, Docker, Flask Deployment, Auto Scaling, Load Balancing** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
-| **Docker, Containerisation, Microservices**       | [Docker Node App](https://github.com/MrDamiAde/docker-node-app) |
-| **Nginx Reverse Proxy, Load Balancing, Web Server Configuration** | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example) |
+| **Docker, Containerisation, Microservices**                           | [Docker Node App](https://github.com/MrDamiAde/docker-node-app)                                            |
+| **Nginx Reverse Proxy, Load Balancing, Web Server Configuration**     | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example)                    |
 
 
 
