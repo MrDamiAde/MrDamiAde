@@ -11,6 +11,7 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 
 | Skill                                                                 | Associated Project                                                                                          |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Microsoft Intune, Windows 10 VM, Win32 App Deployment, Endpoint Management** | [Intune Chrome Deployment](https://github.com/MrDamiAde/intune-chrome-deployment)                          |
 | **Docker, Flask, PostgreSQL, Bootstrap, Docker Compose, 3-Tier App Design** | [Marvel Rivals Stats App](https://github.com/MrDamiAde/marvel-rivals-stats-dockerised)                      |
 | **Docker, Flask, MySQL, Bootstrap, Docker Compose**                  | [Full-Stack MySQL Flask App](https://github.com/MrDamiAde/fullstack-mysql-flask-docker)                     |
 | **Docker, .env Config, Volumes, Bind Mounts, Flask**                 | [Docker Flask To-Do App with .env Support](https://github.com/MrDamiAde/docker-flask-todo-env)              |
@@ -20,6 +21,7 @@ AWS Certified Cloud Practitioner and IT Technician passionate about cloud comput
 | **AWS Elastic Beanstalk, Docker, Flask Deployment, Auto Scaling, Load Balancing** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
 | **Docker, Containerisation, Microservices**                           | [Docker Node App](https://github.com/MrDamiAde/docker-node-app)                                            |
 | **Nginx Reverse Proxy, Load Balancing, Web Server Configuration**     | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example)                    |
+
 
 
 
