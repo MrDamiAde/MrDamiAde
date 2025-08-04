@@ -100,6 +100,7 @@ CompTIA/AWS certified IT Technician passionate about cloud computing, DevOps, an
 
 ## Achievements & Certifications
 
+- CompTIA Network+ (Ongoing)
 - AWS Certified Solutions Architect - Associate (Ongoing)
 - AWS Cloud Practitioner (Mar 2025)
 - CompTIA A+ (Dec 2024)
