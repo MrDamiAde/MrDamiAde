@@ -11,18 +11,16 @@ AWS certified Systems Engineer passionate about cloud computing and automation. 
 
 | Skill                                                                 | Associated Project                                                                                          |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Microsoft Intune, Windows 10 VM, Win32 App Deployment, Endpoint Management** | [Intune Chrome Deployment](https://github.com/MrDamiAde/intune-chrome-deployment)                          |
+| **AWS S3, CloudFront, CloudWatch, Certificate Manager, Static Web Hosting** | [S3 Smart Web Deployment](https://github.com/MrDamiAde/AWS-Static-Web-Hosting-S3-CloudFront-CloudWatch-Configuration) |
+| **CI/CD, AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, GitHub Integration, CloudShell** | [CI/CD Pipeline Deployment with AWS Elastic Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-AWS-Codepipeline-Beanstalk) |
+| **AWS Elastic Beanstalk, Docker, Flask Deployment, Auto Scaling, Load Balancing** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
 | **Docker, Flask, PostgreSQL, Bootstrap, Docker Compose, 3-Tier App Design** | [Marvel Rivals Stats App](https://github.com/MrDamiAde/marvel-rivals-stats-dockerised)                      |
+| **Docker, Nginx, Reverse Proxy, Multi-container Networking**          | [Reverse Proxy with Multiple Flask Apps](https://github.com/MrDamiAde/reverse-proxy-projects)              |
 | **Docker, Flask, MySQL, Bootstrap, Docker Compose**                  | [Full-Stack MySQL Flask App](https://github.com/MrDamiAde/fullstack-mysql-flask-docker)                     |
 | **Docker, .env Config, Volumes, Bind Mounts, Flask**                 | [Docker Flask To-Do App with .env Support](https://github.com/MrDamiAde/docker-flask-todo-env)              |
-| **Docker, Nginx, Reverse Proxy, Multi-container Networking**          | [Reverse Proxy with Multiple Flask Apps](https://github.com/MrDamiAde/reverse-proxy-projects)              |
-| **CI/CD, AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, GitHub Integration, CloudShell** | [CI/CD Pipeline Deployment with AWS Elastic Beanstalk](https://github.com/MrDamiAde/CI-CD-Pipeline-AWS-Codepipeline-Beanstalk) |
-| **AWS S3, CloudFront, CloudWatch, Certificate Manager, Static Web Hosting** | [S3 Smart Web Deployment](https://github.com/MrDamiAde/AWS-Static-Web-Hosting-S3-CloudFront-CloudWatch-Configuration) |
-| **AWS Elastic Beanstalk, Docker, Flask Deployment, Auto Scaling, Load Balancing** | [Beanstalk Dockerised Flask Deployment](https://github.com/MrDamiAde/beanstalk-dockerised-flask-deployment) |
 | **Docker, Containerisation, Microservices**                           | [Docker Node App](https://github.com/MrDamiAde/docker-node-app)                                            |
 | **Nginx Reverse Proxy, Load Balancing, Web Server Configuration**     | [Nginx Reverse Proxy Example](https://github.com/MrDamiAde/Nginx-Reverse-Proxy-Example)                    |
-
-
+| **Microsoft Intune, Windows 10 VM, Win32 App Deployment, Endpoint Management** | [Intune Chrome Deployment](https://github.com/MrDamiAde/intune-chrome-deployment)                          |
 
 
 
